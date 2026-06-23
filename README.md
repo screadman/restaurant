@@ -39,3 +39,8 @@ This project simulates an online restaurant ordering system. While the team coll
   </tr>
 </table>
 
+
+
+<img width="2474" height="1296" alt="image" src="https://github.com/user-attachments/assets/33dd4c97-6c08-415c-ae65-bf91cffb3804" />
+
+
