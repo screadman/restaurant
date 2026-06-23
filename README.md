@@ -13,6 +13,9 @@ This project simulates an online restaurant ordering system. While the team coll
 - Dynamic search bar — real-time filtering of menu items as the user types
 - Dynamic shopping cart — live cart updates (add/remove/quantity) without full page reloads
 - REST API backend — built with ASP.NET Core, connected to a relational database for menu, user, and order data
+
+# Tech Stack
+
 <table>
   <tr>
     <th>Layer</th>
@@ -35,11 +38,4 @@ This project simulates an online restaurant ordering system. While the team coll
     <td>Google OAuth, Google reCAPTCHA</td>
   </tr>
 </table>
-# Tech Stack 
 
-Layer             Technology
------------------------------------------------
-Backend           ASP.NET Core (C#)
-Database          PostgreSQL (pgAdmin)
-Frontend          HTML, Css, Javascript
-Auth              Google reCAPTCHA
