@@ -15,6 +15,10 @@ This project simulates an online restaurant ordering system. While the team coll
 - REST API backend — built with ASP.NET Core, connected to a relational database for menu, user, and order data
 
 # Tech Stack 
-### Layer             Technology
+
+Layer             Technology
 -----------------------------------------------
-  Backend           ASP.NET Core (C#)
+Backend           ASP.NET Core (C#)
+Database          PostgreSQL (pgAdmin)
+Frontend          HTML, Css, Javascript
+Auth              Google reCAPTCHA
