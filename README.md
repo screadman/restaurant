@@ -13,7 +13,28 @@ This project simulates an online restaurant ordering system. While the team coll
 - Dynamic search bar — real-time filtering of menu items as the user types
 - Dynamic shopping cart — live cart updates (add/remove/quantity) without full page reloads
 - REST API backend — built with ASP.NET Core, connected to a relational database for menu, user, and order data
-
+<table>
+  <tr>
+    <th>Layer</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>ASP.NET Core (C#)</td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>PostgreSQL + pgAdmin</td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td>Authentication & Security</td>
+    <td>Google OAuth, Google reCAPTCHA</td>
+  </tr>
+</table>
 # Tech Stack 
 
 Layer             Technology
