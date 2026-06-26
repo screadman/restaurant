@@ -1,5 +1,4 @@
 # La SAUCELERIE
-A full-stack restaurant ordering application built as a 4-person team project, with the primary focus on backend architecture: a secure, database-connected REST API built with ASP.NET Core.
 
 # Project Status
 This was an academic project. The database was hosted on a school-provided account, and access was lost after the course ended, so the live backend/API is no longer running. The code remains available below for review.
